@@ -37,7 +37,7 @@
     "googleapis": "^43.0.0",
     "graphql": "^14.5.7",
     "graphql-tag": "^2.10.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-apollo": "^3.1.1",
